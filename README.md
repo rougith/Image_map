@@ -88,7 +88,7 @@ temple.html
 <body>
     <div class="container">
         <h1>Thiru Annamalaiyar Temple</h1>
-        <img src="Screenshot 2025-10-02 211639.png" alt="Tiruvannamalai Image">
+        
         <font face="Geogria" size="4">
             The temple's main deity is lord Shiva and this temple is agni sthala of
             panjabudha's temples. This plays a significant important in hindu mythology.This temple located in
