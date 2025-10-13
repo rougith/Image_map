@@ -88,7 +88,7 @@ temple.html
 <body>
     <div class="container">
         <h1>Thiru Annamalaiyar Temple</h1>
-          <img src="Screenshot 2025-10-02 212947.png" alt="Tiruvannamalai Image">
+          <img src="/Screenshot 2025-10-02 212947.png" alt="Tiruvannamalai Image">
         <font face="Geogria" size="4">
             The temple's main deity is lord Shiva and this temple is agni sthala of
             panjabudha's temples. This plays a significant important in hindu mythology.This temple located in
@@ -139,7 +139,7 @@ cave.html
 <body>
     <div class="container">
         <h1>Virupaksha Cave</h1>
-        <img src="Screenshot 2025-10-02 212652.png" alt="Tiruvannamalai Image">
+        <img src="/Screenshot 2025-10-02 212652.png" alt="Tiruvannamalai Image">
         <font face="Geogria" size="5"></font>
         <p>
             Virupaksha Cave is a very special and historic cave located on the Arunachala Hill
@@ -194,7 +194,7 @@ school.html
 <body>
     <div class="container">
         <h1>Mount St joseph mat hr sec School</h1>
-        <img src="Screenshot 2025-10-03 102410.png" alt="Tiruvannamalai Image">
+        <img src="/Screenshot 2025-10-03 102410.png" alt="Tiruvannamalai Image">
         <font face="Geogria" size="5">
             Mount st Joseph school was started in the year 1974 by CSST group of sister which was founded by Servant
             of god Mother Teresa of St.Rose of Lima.
@@ -239,7 +239,7 @@ bus stand.html
 <body>
     <div class="container">
         <h1>Bus Stand</h1>
-        <img src="Screenshot 2025-10-02 211849.png" alt="Tiruvannamalai Image">
+        <img src="/Screenshot 2025-10-02 211849.png" alt="Tiruvannamalai Image">
         <font face="Geogria" size="6"></font>
         <p>
             General Info & Facilities
@@ -290,7 +290,7 @@ mountain.html
 <body>
     <div class="container">
         <h1>Annamalaiyar Mountain</h1>
-        <img src="Screenshot 2025-10-02 212947.png" alt="Tiruvannamalai Image">
+        <img src="/Screenshot 2025-10-02 212947.png" alt="Tiruvannamalai Image">
         <font face="Geogria" size="6">
             This mountain was important landmark of tiruvannamalai and it is 2668 feet height.
             This mountain is considered as lord shiva and people used to revovlve around the mountain everydays
