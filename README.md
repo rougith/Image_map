@@ -53,6 +53,8 @@ map.html
 </body>
 
 </html>
+
+'''
 temple.html
 <!DOCTYPE html>
 <html>
