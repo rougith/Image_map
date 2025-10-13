@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```html
 map.html
 <!DOCTYPE html>
 <html>
@@ -301,7 +301,7 @@ mountain.html
             During the tamil month karthigai,They used to light at top of hill whhich will happens for 11 days.
             In the top of there is footprint of lord Arthanatheshwarar(Merge form of lord shiva and parvati)
 
-'''
+```
 
 
 
